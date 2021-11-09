@@ -1,3 +1,5 @@
+/*URL: https://github.com/ElderHenhique/Modelo_Relacional_SQL.git*/
+
 DROP TABLE IF EXISTS TRABALHAM;
 DROP TABLE IF EXISTS REGIAO;
 DROP TABLE IF EXISTS REALIZAM;
